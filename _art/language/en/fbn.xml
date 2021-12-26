@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Microsoft & Sony, Pioneer
-Personnal computer
-Third
-1983
-Cartridge, floppy & tape disk
-Joystick, mouse, keyboard</text>
+<text>Multiple
+Arcade video game cabinet
+Multiple
+1971 / 20xx
+PCB Card
+Arcade stick and other</text>
 		</text>
-
+		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>MSX is a standard of microcomputers with domestic vocation of Japanese origin. It dates from the 1980s so that computers produced by various manufacturers were compatible with each other thanks to Microsoft's MSX-DOS 1. MSX stands for Machines with Software eXchangeability, but it is often interpreted as MicroSoft eXtension. The MSX displayed graphics in 256 × 192 pixels with 16 colors and will see the first generation of games converted from the arcade as well as unique pearls such as Penguin Adventure, Exa Inova, Crusader, α-roid, Gall Force.</text>
+<text>This is a continuation of Final Burn Alpha created in 2004 by TrebbleWinner, itself based on Final Burn created in 2000 by Dave and become FB-Neo in 2019. This project has become over time one of the best emulator Arcade available, thanks to Lantus and IQ_132 for their various optimizations. It is updated very often and emulates different systems such as MVS, CPS1, CPS2, System 16, System 18, X Board, Y Board of Sega, and a whole list of Cave Toaplan, Taito, Psikyo and Kaneko. Just like MAME it offers the features of graphic shaders, savestates, etc ...</text>
 		</text>
 		
 	</view>

@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Microsoft & Sony, Pioneer
-Personnal computer
-Third
-1983
-Cartridge, floppy & tape disk
-Joystick, mouse, keyboard</text>
+<text>Sega
+Home video game console
+Fourth
+1988
+Cartridge
+Gamepad 3 or 6 buttons</text>
 		</text>
-
+		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>MSX is a standard of microcomputers with domestic vocation of Japanese origin. It dates from the 1980s so that computers produced by various manufacturers were compatible with each other thanks to Microsoft's MSX-DOS 1. MSX stands for Machines with Software eXchangeability, but it is often interpreted as MicroSoft eXtension. The MSX displayed graphics in 256 × 192 pixels with 16 colors and will see the first generation of games converted from the arcade as well as unique pearls such as Penguin Adventure, Exa Inova, Crusader, α-roid, Gall Force.</text>
+<text>Released in 1988, the Megadrive or Genesis in America, is the new Sega console based on the architecture of their Arcade System 16. Taking short Nintendo 16-bit market, Sega manages to position it in the United States and Europe, sweeping the way the PC Engine. It has a 7.6 MHz processor, 74 KB of RAM, a 320x224 display and 256x224 pixels in 64 colors among 512 and FM stereo sound. In 1991 the mascot of the brand Sonic the Hedgehog is released, followed by two excellent suites. But the Megadrive is also Disney Aladdin, EA sports games and the uncensored version of Mortal Kombat!</text>
 		</text>
 		
 	</view>

@@ -3,22 +3,22 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-	
+		
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Microsoft & Sony, Pioneer
-Personnal computer
-Third
-1983
-Cartridge, floppy & tape disk
-Joystick, mouse, keyboard</text>
+<text>NEC Corp., Hudson Soft
+Home video game console
+Fourth
+1987
+HuCard
+2/6 button Joypad</text>
 		</text>
-
+		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>MSX is a standard of microcomputers with domestic vocation of Japanese origin. It dates from the 1980s so that computers produced by various manufacturers were compatible with each other thanks to Microsoft's MSX-DOS 1. MSX stands for Machines with Software eXchangeability, but it is often interpreted as MicroSoft eXtension. The MSX displayed graphics in 256 × 192 pixels with 16 colors and will see the first generation of games converted from the arcade as well as unique pearls such as Penguin Adventure, Exa Inova, Crusader, α-roid, Gall Force.</text>
+<text>Released in 1987 in Japan, the PC-Engine (TurboGrafx-16 in America) is the 8-bit console of NEC Corporation. This is their first console, and outside of Japan and North America the console, little or not distributed, has known a confidential existence. It has a 16-bit graphics processor that has often been confusing. It displays a resolution of 256×240 to 512×240 pixels in 32 colors out of 512, with a 6-way stereo PCM sound. With its game library of more than 600 games, it is known for its excellent shoot them up as Gunhed and Parodius, but also PC Kid, Cadash, Devil Crash and Bomberman 94.</text>
 		</text>
 		
 	</view>
-
+	
 </theme>

@@ -6,17 +6,17 @@
 	
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE -----------|------>
-<text>Microsoft & Sony, Pioneer
-Personnal computer
-Third
-1983
-Cartridge, floppy & tape disk
-Joystick, mouse, keyboard</text>
+<text>From id Software engine
+3D game engine
+2.5.0+
+2008
+WAD files
+Joystick, keyboard, mouse</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>MSX is a standard of microcomputers with domestic vocation of Japanese origin. It dates from the 1980s so that computers produced by various manufacturers were compatible with each other thanks to Microsoft's MSX-DOS 1. MSX stands for Machines with Software eXchangeability, but it is often interpreted as MicroSoft eXtension. The MSX displayed graphics in 256 × 192 pixels with 16 colors and will see the first generation of games converted from the arcade as well as unique pearls such as Penguin Adventure, Exa Inova, Crusader, α-roid, Gall Force.</text>
+<text>Prboom, is a Doom port supporting Doom, Doom II, Ultimate Doom and other wads released later. It is also compatible with FreeDoom. It is now possible to play in OpenGL and therefore enjoy higher resolutions and improved effects. The goal is to expand functionality while maintaining compatibility. It brings in particular MIDI synthesizers, OGG and MP3 formats, high resolution textures and sprites, the possibility of looking up and down, a tracking camera, treadmills, silent teleporters, NPCs, Etc ...</text>
 		</text>
 		
 	</view>
